@@ -1,0 +1,109 @@
+.box0{
+   
+    height: 1020px ;
+    width: 780px auto;
+   
+   
+}
+.bg1{
+     background-color: antiquewhite;
+     height: 60px;
+     width: 780px auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;  
+}
+
+.logo{
+   display: flex;
+   justify-content: flex-end;
+    gap: 10px;
+    margin-right: 15px;
+}
+.perifumlogo{
+    height: 100px;
+    width: 780px auto;
+    justify-items: flex-end;
+}
+
+.box1{
+     background-color: rgb(241, 198, 142);
+     height: 240px;
+     width: 780px auto;
+     display: flex;  
+     justify-content: space-between; 
+     align-items: center;
+
+   
+}
+.intro{
+    margin-left: 25px ;
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+}
+
+.img{
+    height: 235px;
+     width: 780px auto;
+     border-radius: 10px;
+     margin-top: 3px;
+}
+
+.sin{
+    background-color: rgba(186, 186, 218, 0.836);
+    
+     border-radius: 8px;
+}
+
+.box2 {
+     background-color: antiquewhite;
+     height: 240px;
+     width: 780px auto;
+     display: flex;
+     justify-content: center ;
+     align-items: center;
+     gap: 10px;
+    
+}
+.sampl{
+    height: 200px;
+    width: 190px auto;
+    background-color: rgba(153, 207, 236, 0.484);
+    border-radius: 20px;
+}
+.box3{
+     background-color: rgb(241, 198, 142);
+     height: 240px;
+     width: 780px auto;
+     display: flex;
+     justify-content: space-between;
+    
+     
+}
+.box4{
+     background-color: antiquewhite;
+     height: 240px;
+     width: 780px auto;
+     display: flex;  
+     align-items: center;
+     justify-content: center;
+}
+.minibox4{
+    background-color: rgba(63, 94, 188, 0.767);
+    height: 90px;
+    width: 550px;
+    display: flex;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content:space-between ;
+}
+.sign2{
+    height: 40px;
+    width: 90px;
+    margin-right: 10px;
+    border-radius: 12px;
+    
+}
